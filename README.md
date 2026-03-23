@@ -653,9 +653,8 @@ copies or substantial portions of the Software.
 
 **Gaurav Singh**
 
-[![GitHub](https://img.shields.io/badge/GitHub-gaurav--singh--tech-black?style=for-the-badge&logo=github)](https://github.com/gaurav-singh-tech)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail)](mailto:your-email@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-profile)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail)](gauravbisht2803@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/contact-gauravsingh/)
 
 *Data Engineer | Cloud Architect | Big Data Enthusiast*
 
